@@ -1,0 +1,13 @@
+---
+title: "Mein erster Post"
+date: 2025-10-02T22:52:53+02:00
+---
+
+SEW
+
+[[source,java]
+----
+System.out.println("Hallo Welt")
+----
+]
+
